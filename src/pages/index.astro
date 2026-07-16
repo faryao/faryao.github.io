@@ -1,0 +1,149 @@
+---
+const projects = [
+  {
+    title: '爱尔兰道路规则 · 中文版',
+    description: 'Irish Rules of the Road in Simplified Chinese — a practical reference for Chinese-speaking drivers in Ireland.',
+    href: 'https://faryao.github.io/irish-driver-rules-zh',
+    label: 'Featured project',
+  },
+  {
+    title: 'Local Task',
+    description: 'A local-first task manager with a graphical interface.',
+    href: 'https://github.com/faryao/local-task',
+    label: 'Java',
+  },
+  {
+    title: 'Mubu to Anki',
+    description: 'A small Python utility for turning structured notes into study material.',
+    href: 'https://github.com/faryao/mubu2anki',
+    label: 'Python',
+  },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="The personal homepage of Yuan Yao, a developer based in Dublin, Ireland." />
+    <meta name="theme-color" content="#f2f0e8" />
+    <title>Yuan Yao — Developer in Dublin</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Manrope:wght@500;600;700&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="noise"></div>
+    <header>
+      <a class="brand" href="/" aria-label="Yuan Yao, home">YY<span>.</span></a>
+      <nav aria-label="Main navigation">
+        <a href="#work">Work</a>
+        <a href="https://github.com/faryao" target="_blank" rel="noreferrer">GitHub ↗</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="eyebrow"><span></span> Dublin, Ireland</div>
+        <h1>I make useful things<br />for the <em>real world.</em></h1>
+        <div class="hero-bottom">
+          <p>I’m Yuan Yao, a developer focused on practical software, thoughtful tools, and making useful information easier to access.</p>
+          <a class="round-link" href="#work" aria-label="See selected work">↓</a>
+        </div>
+      </section>
+
+      <section class="work" id="work">
+        <div class="section-heading">
+          <p>Selected work</p>
+          <span>01 — 03</span>
+        </div>
+        <div class="project-list">
+          {projects.map((project, index) => (
+            <a class:list={['project', { featured: index === 0 }]} href={project.href} target="_blank" rel="noreferrer">
+              <span class="number">0{index + 1}</span>
+              <div class="project-copy">
+                <span class="label">{project.label}</span>
+                <h2>{project.title}</h2>
+                <p>{project.description}</p>
+              </div>
+              <span class="arrow">↗</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="contact">
+        <p>Have something interesting in mind?</p>
+        <a href="https://github.com/faryao" target="_blank" rel="noreferrer">Let’s connect <span>↗</span></a>
+      </section>
+    </main>
+
+    <footer>
+      <p>© {new Date().getFullYear()} Yuan Yao</p>
+      <p>Built with Astro · Dublin</p>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  :root { --ink: #17231e; --paper: #f2f0e8; --lime: #d8ff5f; --muted: #66716b; }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: 'DM Sans', sans-serif; }
+  body::before { content: ''; position: fixed; inset: 0; pointer-events: none; background: radial-gradient(circle at 82% 8%, rgba(216,255,95,.22), transparent 28%); }
+  .noise { position: fixed; inset: 0; opacity: .035; pointer-events: none; z-index: 9; background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.8'/%3E%3C/svg%3E"); }
+  a { color: inherit; }
+  header, main, footer { width: min(1180px, calc(100% - 48px)); margin-inline: auto; position: relative; }
+  header { height: 100px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid rgba(23,35,30,.18); }
+  .brand { font: 700 23px 'Manrope'; text-decoration: none; letter-spacing: -.05em; }
+  .brand span { color: #8da82c; }
+  nav { display: flex; gap: 32px; }
+  nav a { text-decoration: none; font-size: 14px; font-weight: 600; }
+  nav a:hover { opacity: .55; }
+  .hero { min-height: 680px; padding: 92px 0 80px; display: flex; flex-direction: column; justify-content: space-between; }
+  .eyebrow { text-transform: uppercase; letter-spacing: .15em; font-size: 12px; font-weight: 600; display: flex; align-items: center; gap: 10px; }
+  .eyebrow span { width: 8px; height: 8px; border-radius: 50%; background: #86a51d; box-shadow: 0 0 0 5px rgba(134,165,29,.13); }
+  h1 { font: 600 clamp(55px, 8.4vw, 112px)/.96 'Manrope'; letter-spacing: -.065em; margin: 40px 0 70px; max-width: 1050px; }
+  h1 em { font-family: Georgia, serif; font-weight: 400; }
+  .hero-bottom { display: flex; align-items: end; justify-content: space-between; }
+  .hero-bottom p { color: var(--muted); max-width: 510px; font-size: 20px; line-height: 1.55; margin: 0; }
+  .round-link { width: 72px; height: 72px; border: 1px solid rgba(23,35,30,.3); border-radius: 50%; display: grid; place-items: center; text-decoration: none; font-size: 24px; transition: .25s; }
+  .round-link:hover { background: var(--ink); color: var(--paper); transform: translateY(4px); }
+  .work { padding: 110px 0; }
+  .section-heading { display: flex; justify-content: space-between; padding-bottom: 22px; text-transform: uppercase; letter-spacing: .12em; font-size: 12px; font-weight: 600; }
+  .section-heading p { margin: 0; }
+  .section-heading span { color: var(--muted); }
+  .project { display: grid; grid-template-columns: 80px 1fr 60px; gap: 24px; align-items: center; padding: 38px 20px 38px 0; border-top: 1px solid rgba(23,35,30,.2); text-decoration: none; transition: padding .25s, background .25s; }
+  .project:last-child { border-bottom: 1px solid rgba(23,35,30,.2); }
+  .project:hover { padding-left: 20px; background: rgba(255,255,255,.28); }
+  .project.featured { background: var(--lime); margin: 0 -22px; padding-left: 22px; padding-right: 22px; border: 0; }
+  .project.featured:hover { padding-left: 34px; }
+  .number { font: 500 13px 'Manrope'; color: var(--muted); }
+  .label { font-size: 11px; text-transform: uppercase; letter-spacing: .13em; color: var(--muted); }
+  .project h2 { font: 600 clamp(25px, 3.2vw, 42px) 'Manrope'; letter-spacing: -.035em; margin: 7px 0 8px; }
+  .project p { margin: 0; color: var(--muted); max-width: 650px; line-height: 1.5; }
+  .arrow { justify-self: end; font-size: 25px; transition: transform .25s; }
+  .project:hover .arrow { transform: translate(4px, -4px); }
+  .contact { padding: 120px 0; }
+  .contact p { color: var(--muted); font-size: 15px; }
+  .contact a { display: flex; justify-content: space-between; align-items: center; font: 600 clamp(48px, 8vw, 100px)/1 'Manrope'; letter-spacing: -.06em; text-decoration: none; border-bottom: 2px solid var(--ink); padding-bottom: 22px; }
+  .contact a span { font-size: .55em; }
+  footer { padding: 28px 0 40px; border-top: 1px solid rgba(23,35,30,.18); display: flex; justify-content: space-between; color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .1em; }
+  footer p { margin: 0; }
+  @media (max-width: 700px) {
+    header, main, footer { width: min(100% - 32px, 1180px); }
+    header { height: 78px; } nav { gap: 18px; }
+    .hero { min-height: 620px; padding: 70px 0 55px; }
+    h1 { margin-top: 32px; }
+    .hero-bottom { align-items: start; gap: 30px; }
+    .hero-bottom p { font-size: 17px; }
+    .round-link { width: 54px; height: 54px; flex: 0 0 auto; }
+    .work { padding: 80px 0; }
+    .project { grid-template-columns: 38px 1fr 24px; gap: 10px; padding-block: 28px; }
+    .project p { font-size: 14px; }
+    .project.featured { margin-inline: -16px; padding-inline: 16px; }
+    .contact { padding: 85px 0; }
+    footer { gap: 20px; line-height: 1.5; }
+  }
+</style>
