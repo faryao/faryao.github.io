@@ -6,6 +6,12 @@ const projects = [
     href: 'https://faryao.github.io/irish-driver-rules-zh',
     label: 'Featured project',
   },
+  {
+    title: '爱尔兰道路使用者指南 · 中文版',
+    description: 'RSA road-safety guidance for pedestrians, cyclists, motorcyclists and other road users, translated into Simplified Chinese.',
+    href: 'https://faryao.github.io/rsa-road-users-zh/',
+    label: 'Road safety guide',
+  },
 ];
 ---
 
@@ -14,9 +20,9 @@ const projects = [
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <meta name="description" content="The personal homepage of Yuan Yao, a developer based in Dublin, Ireland." />
+    <meta name="description" content="Yuan Yao’s projects and practical public-interest resources." />
     <meta name="theme-color" content="#f2f0e8" />
-    <title>Yuan Yao — Developer in Dublin</title>
+    <title>Yuan Yao</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Manrope:wght@500;600;700&display=swap" rel="stylesheet" />
@@ -34,10 +40,9 @@ const projects = [
 
     <main>
       <section class="hero">
-        <div class="eyebrow"><span></span> Dublin, Ireland</div>
-        <h1>I make useful things<br />for the <em>real world.</em></h1>
+        <h1>Useful things,<br /><em>made to be used.</em></h1>
         <div class="hero-bottom">
-          <p>I’m Yuan Yao, a developer focused on practical software, thoughtful tools, and making useful information easier to access.</p>
+          <p>Projects and translated resources that make useful information easier to access.</p>
           <a class="round-link" href="#work" aria-label="See selected work">↓</a>
         </div>
       </section>
@@ -45,7 +50,7 @@ const projects = [
       <section class="work" id="work">
         <div class="section-heading">
           <p>Selected work</p>
-          <span>01</span>
+          <span>{String(projects.length).padStart(2, '0')}</span>
         </div>
         <div class="project-list">
           {projects.map((project, index) => (
@@ -70,7 +75,7 @@ const projects = [
 
     <footer>
       <p>© {new Date().getFullYear()} Yuan Yao</p>
-      <p>Built with Astro · Dublin</p>
+      <p>faryao.github.io</p>
     </footer>
   </body>
 </html>
