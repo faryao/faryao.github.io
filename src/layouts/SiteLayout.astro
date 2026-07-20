@@ -556,23 +556,25 @@ const navItems = [
     fill: rgba(255, 255, 255, .72);
   }
 
-  .icon-code {
-    background: linear-gradient(145deg, #30394b, #0e1118);
+  .icon-wiki {
+    background: linear-gradient(145deg, #74d9c8, #2379b8);
   }
 
-  .code-window {
+  .wiki-page {
+    fill: rgba(255, 255, 255, .94);
+    filter: drop-shadow(0 5px 5px rgba(17, 65, 104, .22));
+  }
+
+  .wiki-fold {
     fill: none;
-    stroke: rgba(255, 255, 255, .9);
-    stroke-width: 2.5;
+    stroke: #8cc9d9;
+    stroke-width: 2;
+    stroke-linejoin: round;
   }
 
-  .code-dot {
-    fill: #ffcf66;
-  }
-
-  .code-mark {
+  .wiki-mark {
     fill: none;
-    stroke: #fff;
+    stroke: #2379b8;
     stroke-width: 4;
     stroke-linecap: round;
     stroke-linejoin: round;

@@ -1,4 +1,4 @@
-export type AppIcon = 'code' | 'diary' | 'people' | 'road';
+export type AppIcon = 'diary' | 'people' | 'road' | 'wiki';
 
 export interface AppLink {
   name: string;
@@ -19,10 +19,10 @@ export const projectApps: AppLink[] = [
     isNew: true,
   },
   {
-    name: 'GitHub',
-    description: 'Yuan Yao on GitHub',
-    href: 'https://github.com/faryao',
-    icon: 'code',
+    name: 'Public Wiki',
+    description: 'A public, community-editable wiki.',
+    href: 'https://faryao.github.io/public_wiki/',
+    icon: 'wiki',
     lang: 'en',
   },
 ];
