@@ -1,0 +1,14 @@
+---
+import AppGrid from '../components/AppGrid.astro';
+import { archiveApps } from '../data/apps';
+import SiteLayout from '../layouts/SiteLayout.astro';
+---
+
+<SiteLayout
+  currentPage="archive"
+  description="Archived public-interest resources from Yuan Yao."
+  heading="Archive"
+  title="Yuan Yao — Archive"
+>
+  <AppGrid apps={archiveApps} label="Archived projects and resources" />
+</SiteLayout>

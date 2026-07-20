@@ -1,0 +1,72 @@
+---
+import type { AppLink } from '../data/apps';
+
+interface Props {
+  apps: AppLink[];
+  label: string;
+}
+
+const { apps, label } = Astro.props;
+---
+
+<nav class:list={['app-grid', { 'app-grid--two': apps.length === 2 }]} aria-label={label}>
+  {apps.map((app) => (
+    <a
+      class="app"
+      href={app.href}
+      target="_blank"
+      rel="noreferrer"
+    >
+      <span class:list={['app-icon', `icon-${app.icon}`]}>
+        {app.icon === 'diary' && (
+          <svg viewBox="0 0 88 88" aria-hidden="true">
+            <path class="diary-sheet" d="M24 14h36a8 8 0 0 1 8 8v50H24a8 8 0 0 1-8-8V22a8 8 0 0 1 8-8Z" />
+            <path class="diary-spine" d="M27 14v58" />
+            <circle class="diary-dot" cx="38" cy="29" r="4" />
+            <path class="diary-lines" d="M47 28h11M37 42h21M37 52h21M37 62h14" />
+          </svg>
+        )}
+
+        {app.icon === 'road' && (
+          <svg viewBox="0 0 88 88" aria-hidden="true">
+            <circle class="road-sun" cx="63" cy="23" r="8" />
+            <path class="road-hill road-hill-back" d="M0 52 25 29l18 17 14-13 31 25v30H0Z" />
+            <path class="road-hill road-hill-front" d="M0 62 21 44l18 15 15-12 34 24v17H0Z" />
+            <path class="road-surface" d="m29 88 11-38h10l13 38Z" />
+            <path class="road-line" d="m44 56 1 7m2 6 2 13" />
+          </svg>
+        )}
+
+        {app.icon === 'people' && (
+          <svg viewBox="0 0 88 88" aria-hidden="true">
+            <path class="people-path" d="M-2 77c18-15 30-18 48-16 18 1 30-5 44-18v45H-2Z" />
+            <circle class="person-main" cx="42" cy="27" r="9" />
+            <path class="person-main" d="M26 66c2-18 7-28 16-28s15 10 18 28Z" />
+            <circle class="person-side" cx="68" cy="38" r="6" />
+            <path class="person-side" d="M59 64c1-12 4-19 10-19 7 0 10 7 12 19Z" />
+            <circle class="person-side" cx="17" cy="41" r="5" />
+            <path class="person-side" d="M7 65c1-11 4-17 10-17s9 6 10 17Z" />
+          </svg>
+        )}
+
+        {app.icon === 'code' && (
+          <svg viewBox="0 0 88 88" aria-hidden="true">
+            <rect class="code-window" x="13" y="18" width="62" height="52" rx="10" />
+            <circle class="code-dot" cx="23" cy="28" r="2" />
+            <circle class="code-dot" cx="30" cy="28" r="2" />
+            <circle class="code-dot" cx="37" cy="28" r="2" />
+            <path class="code-mark" d="m34 43-8 7 8 7m20-14 8 7-8 7m-5-20-9 26" />
+          </svg>
+        )}
+
+        {app.isNew && <span class="badge" aria-hidden="true">NEW</span>}
+      </span>
+      <span class="app-name" lang={app.lang}>{app.name}</span>
+      <span class="sr-only">
+        {app.isNew && 'New project. '}
+        <span lang={app.lang}>{app.description}</span>
+        {' Opens in a new tab.'}
+      </span>
+    </a>
+  ))}
+</nav>
