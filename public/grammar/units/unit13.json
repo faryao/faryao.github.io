@@ -1,0 +1,118 @@
+[
+  {
+    "q": "lose\n I can't get in. I ___ my key.",
+    "a": "I've lost my key."
+  },
+  {
+    "q": "go\n The office is empty now. Everybody ___ home.",
+    "a": "Everybody has gone home."
+  },
+  {
+    "q": "forget\n I meant to call you last night, but I ___.",
+    "a": "I forgot."
+  },
+  {
+    "q": "go\n Helen ___ to New York for a holiday, but she's back home in London now.",
+    "a": "Helen went to New York for a holiday, but she's back home in London now."
+  },
+  {
+    "q": "have\n Are you OK? Yes, I ___ a headache, but it's OK now.",
+    "a": "Yes, I had a headache, but it's OK now."
+  },
+  {
+    "q": "break\n Can you help us? Our car ___ down.",
+    "a": "Our car has broken down."
+  },
+  {
+    "q": "grow\n My mother ___ up in Italy.",
+    "a": "My mother grew up in Italy."
+  },
+  {
+    "q": "write\n How many plays ___ William Shakespeare ___?",
+    "a": "How many plays did William Shakespeare write?"
+  },
+  {
+    "q": "forget\n I ___ his name. Is it Joe or Jack?",
+    "a": "I've forgotten his name."
+  },
+  {
+    "q": "invent\n Who ___ paper?",
+    "a": "Who invented paper?"
+  },
+  {
+    "q": "become\n Drugs ___ a big problem everywhere.",
+    "a": "Drugs have become a big problem everywhere."
+  },
+  {
+    "q": "wash\n We ___ the car, but now it's dirty again.",
+    "a": "We've washed the car, but now it's dirty again."
+  },
+  {
+    "q": "be born\n Where ___ you ___?",
+    "a": "Where were you born?"
+  },
+  {
+    "q": "go\n Ellie ___ shopping. She'll be back in about an hour.",
+    "a": "Ellie has gone shopping."
+  },
+  {
+    "q": "be / develop\n Albert Einstein ___ the scientist who ___ the theory of relativity.",
+    "a": "Albert Einstein was the scientist who developed the theory of relativity."
+  },
+  {
+    "q": "it / stop\n ___ raining for a while, but now it's raining again.",
+    "a": "It stopped raining for a while, but now it's raining again."
+  },
+  {
+    "q": "it / change\n The town where I live is very different now. ___ a lot.",
+    "a": "It has changed a lot."
+  },
+  {
+    "q": "I / forget\n I studied German at school, but ___ most of it now.",
+    "a": "I've forgotten most of it now."
+  },
+  {
+    "q": "arrest\n The police ___ three people, but later they let them go.",
+    "a": "The police arrested three people, but later they let them go."
+  },
+  {
+    "q": "it / improve\n What do you think of my English? Do you think ___?",
+    "a": "Do you think it has improved?"
+  },
+  {
+    "q": "you / finish\n Are you ready to go? ___ your coffee?",
+    "a": "Have you finished your coffee?"
+  },
+  {
+    "q": "I / apply\n ___ for a job as a tour guide, but I wasn't successful.",
+    "a": "I applied for a job as a tour guide, but I wasn't successful."
+  },
+  {
+    "q": "it / be\n Where's my bike? ___ outside the house, but it's not there now.",
+    "a": "It was outside the house, but it's not there now."
+  },
+  {
+    "q": "there / be\n Quick! We need to call an ambulance. ___ an accident.",
+    "a": "There has been an accident."
+  },
+  {
+    "q": "you / find\n A: I've found my phone. B: Oh, good. Where ___ it?",
+    "a": "Where did you find it?"
+  },
+  {
+    "q": "it / be\n ___ at the bottom of my bag.",
+    "a": "It was at the bottom of my bag."
+  },
+  {
+    "q": "he / break\n Ben won't be able to play tennis for a while. ___ his arm.",
+    "a": "He has broken his arm."
+  },
+  {
+    "q": "that / happen\n How ___?",
+    "a": "How did that happen?"
+  },
+  {
+    "q": "he / fall\n ___ off a ladder.",
+    "a": "He fell off a ladder."
+  }
+]

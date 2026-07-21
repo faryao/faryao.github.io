@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1220">
+  <title>Grammar Practice</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <aside class="sidebar" id="sidebar">
+    <header class="sidebar__header">
+      <div>
+        <p class="eyebrow">English practice</p>
+        <h1>Grammar drills</h1>
+      </div>
+      <button class="icon-button mobile-only" id="close-menu" aria-label="Close unit menu">✕</button>
+    </header>
+    <label class="search">
+      <span class="sr-only">Search units</span>
+      <input id="search" type="search" placeholder="Search units…" autocomplete="off">
+    </label>
+    <nav id="unit-list" class="unit-list" aria-label="Grammar units"></nav>
+  </aside>
+
+  <main>
+    <header class="topbar">
+      <button class="icon-button mobile-only" id="open-menu" aria-label="Open unit menu">☰</button>
+      <span id="unit-title">Choose a unit</span>
+      <span class="edge-badge" title="Uses Microsoft Edge speech synthesis">Edge voice</span>
+    </header>
+
+    <section class="practice" aria-live="polite">
+      <div class="empty-state" id="empty-state">
+        <span class="empty-state__icon">Aa</span>
+        <h2>Ready to practise?</h2>
+        <p>Pick a grammar unit, think of the answer, then listen to it in Edge.</p>
+      </div>
+
+      <article class="card hidden" id="card">
+        <div class="card__meta">
+          <span id="progress">1 / 1</span>
+          <span id="status">Ready</span>
+        </div>
+        <div id="start-panel" class="start-panel">
+          <p id="question-count"></p>
+          <button class="primary-button" id="start">Start practice</button>
+        </div>
+        <div id="exercise" class="exercise hidden">
+          <p class="question" id="question"></p>
+          <div class="countdown" id="countdown">3</div>
+          <p class="answer" id="answer"></p>
+          <div class="controls">
+            <button id="previous">Previous</button>
+            <button id="again">Again</button>
+            <button class="pause-button" id="pause">Pause</button>
+            <button id="next">Next</button>
+          </div>
+        </div>
+      </article>
+    </section>
+  </main>
+  <div class="scrim" id="scrim"></div>
+</body>
+</html>

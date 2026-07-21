@@ -1,0 +1,102 @@
+[
+    {
+        "q": "Correct the underlined part: 'Have you eaten' a lot of sweets when you were a child?",
+        "a": "Did you eat a lot of sweets when you were a child?"
+    },
+    {
+        "q": "Correct the underlined part: 'I've bought' a new car last week.",
+        "a": "I bought a new car last week."
+    },
+    {
+        "q": "Correct the underlined part: Where 'have you been' yesterday evening?",
+        "a": "Where were you yesterday evening?"
+    },
+    {
+        "q": "Correct the underlined part: Maria 'has left' school in 1999.",
+        "a": "Maria left school in 1999."
+    },
+    {
+        "q": "Correct the underlined part: When 'has this bridge been' built?",
+        "a": "When was this bridge built?"
+    },
+    {
+        "q": "Make a sentence: (the weather / be / cold / recently)",
+        "a": "The weather has been cold recently."
+    },
+    {
+        "q": "Make a sentence: (it / cold / last week)",
+        "a": "It was cold last week."
+    },
+    {
+        "q": "Make a sentence: (I / not / eat / any fruit yesterday)",
+        "a": "I did not eat any fruit yesterday."
+    },
+    {
+        "q": "Make a sentence: (I / not / eat / any fruit today)",
+        "a": "I have not eaten any fruit today."
+    },
+    {
+        "q": "Make a sentence: (Emily / earn / a lot of money / this year)",
+        "a": "Emily has earned a lot of money this year."
+    },
+    {
+        "q": "Make a sentence: (she / not / earn / so much / last year)",
+        "a": "She did not earn so much last year."
+    },
+    {
+        "q": "Make a question: (you / have / a holiday recently?)",
+        "a": "Have you had a holiday recently?"
+    },
+    {
+        "q": "Put the verb in the correct form: I (not / be) to Canada, but I'd like to go there.",
+        "a": "I have not been to Canada, but I'd like to go there."
+    },
+    {
+        "q": "Put the verb in the correct form: Paul and Lucy (arrive) about ten minutes ago.",
+        "a": "Paul and Lucy arrived about ten minutes ago."
+    },
+    {
+        "q": "Put the verb in the correct form: I'm tired. I (not / sleep) well last night.",
+        "a": "I'm tired. I did not sleep well last night."
+    },
+    {
+        "q": "Put the verb in the correct form: There (be) a bus drivers' strike last week.",
+        "a": "There was a bus drivers' strike last week."
+    },
+    {
+        "q": "Put the verb in the correct form: Edward (work) in a bank for 15 years. Then he (give) it up.",
+        "a": "Edward worked in a bank for 15 years. Then he gave it up."
+    },
+    {
+        "q": "Put the verb in the correct form: Mary lives in Dublin. She (live) there all her life.",
+        "a": "Mary lives in Dublin. She has lived there all her life."
+    },
+    {
+        "q": "Put the verb in the correct form: My grandfather (die) before I was born.",
+        "a": "My grandfather died before I was born."
+    },
+    {
+        "q": "Put the verb in the correct form: It's nearly lunchtime, and I (not / see) Martin all morning.",
+        "a": "It's nearly lunchtime, and I have not seen Martin all morning."
+    },
+    {
+        "q": "Put the verb in the correct form: (you / go) to the cinema last night?",
+        "a": "Did you go to the cinema last night?"
+    },
+    {
+        "q": "Put the verb in the correct form: It (be) very warm here since we arrived.",
+        "a": "It has been very warm here since we arrived."
+    },
+    {
+        "q": "Put the verb in the correct form: How long (you / live) in Boston?",
+        "a": "How long have you lived in Boston?"
+    },
+    {
+        "q": "Put the verb in the correct form: Where (you / live) before that?",
+        "a": "Where did you live before that?"
+    },
+    {
+        "q": "Put the verb in the correct form: How long (you / live) in Chicago?",
+        "a": "How long did you live in Chicago?"
+    }
+]

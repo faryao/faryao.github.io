@@ -1,0 +1,118 @@
+[
+    {
+        "q": "have\n She ___ a big breakfast yesterday.",
+        "a": "She had a big breakfast yesterday."
+    },
+    {
+        "q": "walk\n She ___ to work yesterday.",
+        "a": "She walked to work yesterday."
+    },
+    {
+        "q": "take\n It ___ her about half an hour to get to work.",
+        "a": "It took her about half an hour to get to work."
+    },
+    {
+        "q": "start\n She ___ work at 8.45 yesterday.",
+        "a": "She started work at 8.45 yesterday."
+    },
+    {
+        "q": "have\n She ___ (negative) lunch yesterday.",
+        "a": "She didn't have lunch yesterday."
+    },
+    {
+        "q": "finish\n She ___ work at 5 o'clock yesterday.",
+        "a": "She finished work at 5 o'clock yesterday."
+    },
+    {
+        "q": "be\n She ___ tired when she got home.",
+        "a": "She was tired when she got home."
+    },
+    {
+        "q": "cook\n She ___ a meal yesterday evening.",
+        "a": "She cooked a meal yesterday evening."
+    },
+    {
+        "q": "go\n She ___ (negative) out yesterday evening.",
+        "a": "She didn't go out yesterday evening."
+    },
+    {
+        "q": "go\n She ___ to bed at 11 o'clock.",
+        "a": "She went to bed at 11 o'clock."
+    },
+    {
+        "q": "sleep\n She ___ well last night.",
+        "a": "She slept well last night."
+    },
+    {
+        "q": "teach\n 'How did you learn to drive?' 'My father ___ me.'",
+        "a": "My father taught me."
+    },
+    {
+        "q": "sell\n We couldn't afford to keep our car, so we ___ it.",
+        "a": "We couldn't afford to keep our car, so we sold it."
+    },
+    {
+        "q": "fall / hurt\n Dave ___ down the stairs this morning and ___ his leg.",
+        "a": "Dave fell down the stairs this morning and hurt his leg."
+    },
+    {
+        "q": "throw / catch\n Joe ___ the ball to Sue, who ___ it.",
+        "a": "Joe threw the ball to Sue, who caught it."
+    },
+    {
+        "q": "spend / buy / cost\n Kate ___ a lot of money yesterday. She ___ a dress which ___ £100.",
+        "a": "Kate spent a lot of money yesterday. She bought a dress which cost £100."
+    },
+    {
+        "q": "question transformation\n (you / go / by car?)\n 'How ___?' 'Yes, we hired a car in San Francisco.'",
+        "a": "How did you go? By car?"
+    },
+    {
+        "q": "question transformation\n (it / take / how long?)\n 'How long ___?' 'Two weeks.'",
+        "a": "How long did it take?"
+    },
+    {
+        "q": "question transformation\n (you / stay / in hotels?)\n 'Where ___? In hotels?' 'Yes, small hotels or motels.'",
+        "a": "Where did you stay? In hotels?"
+    },
+    {
+        "q": "question transformation\n (the weather / be / good?)\n '___ the weather ___?' 'Yes, but it was very hot.'",
+        "a": "Was the weather good?"
+    },
+    {
+        "q": "question transformation\n (you / see / the Grand Canyon?)\n '___ you ___ the Grand Canyon?' 'Of course. It was wonderful.'",
+        "a": "Did you see the Grand Canyon?"
+    },
+    {
+        "q": "disturb\n I knew Sarah was busy, so I ___ (negative) her.",
+        "a": "I knew Sarah was busy, so I didn't disturb her."
+    },
+    {
+        "q": "leave\n We were very tired, so we ___ the party early.",
+        "a": "We were very tired, so we left the party early."
+    },
+    {
+        "q": "be\n It was hard carrying the bags. They ___ really heavy.",
+        "a": "It was hard carrying the bags. They were really heavy."
+    },
+    {
+        "q": "sleep\n The bed was very uncomfortable. I ___ (negative) well.",
+        "a": "The bed was very uncomfortable. I didn't sleep well."
+    },
+    {
+        "q": "cost\n This watch wasn't expensive. It ___ (negative) much.",
+        "a": "This watch wasn't expensive. It didn't cost much."
+    },
+    {
+        "q": "fly\n The window was open and a bird ___ into the room.",
+        "a": "The window was open and a bird flew into the room."
+    },
+    {
+        "q": "have\n I was in a hurry, so I ___ (negative) time to call you.",
+        "a": "I was in a hurry, so I didn't have time to call you."
+    },
+    {
+        "q": "be\n I didn't like the hotel. The room ___ (negative) very clean.",
+        "a": "I didn't like the hotel. The room wasn't very clean."
+    }
+]

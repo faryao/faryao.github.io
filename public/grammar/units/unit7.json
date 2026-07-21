@@ -1,0 +1,114 @@
+[
+    {
+        "q": "Maria's English wasn't very good. Now it is better. (improve)\n Her English ___.",
+        "a": "Her English has improved."
+    },
+    {
+        "q": "My bag was here, but it isn't here any more. (disappear)\n My bag ___.",
+        "a": "My bag has disappeared."
+    },
+    {
+        "q": "Lisa can't walk and her leg is in plaster. (break)\n Lisa ___ her leg.",
+        "a": "Lisa has broken her leg."
+    },
+    {
+        "q": "Last week the bus fare was £1.80. Now it is £2. (go up)\n The bus fare ___.",
+        "a": "The bus fare has gone up."
+    },
+    {
+        "q": "Dan didn't have a beard before. Now he has a beard. (grow)\n Dan ___ a beard.",
+        "a": "Dan has grown a beard."
+    },
+    {
+        "q": "It was raining ten minutes ago. It isn't raining now. (stop)\n It ___ raining.",
+        "a": "It has stopped raining."
+    },
+    {
+        "q": "I washed my sweater, and now it's too small for me. (shrink)\n My sweater ___.",
+        "a": "My sweater has shrunk."
+    },
+    {
+        "q": "Hello! I've just ___ to the shops. I've bought lots of things. (been / gone)",
+        "a": "Hello! I've just been to the shops. I've bought lots of things."
+    },
+    {
+        "q": "Tom has just ___ out. He'll be back in about an hour. (been / gone)",
+        "a": "Tom has just gone out. He'll be back in about an hour."
+    },
+    {
+        "q": "Alice isn't here at the moment. I don't know where she's ___. (been / gone)",
+        "a": "Alice isn't here at the moment. I don't know where she's gone."
+    },
+    {
+        "q": "You're very late. Where have you ___? (been / gone)",
+        "a": "You're very late. Where have you been?"
+    },
+    {
+        "q": "I can't find my bag. ___ (you / see / it) anywhere?",
+        "a": "Have you seen it anywhere?"
+    },
+    {
+        "q": "I can't log on to the website. ___ (I / forget) my password.",
+        "a": "I have forgotten my password."
+    },
+    {
+        "q": "I sent Joe an email this morning, but ___ (he / not / reply).",
+        "a": "he hasn't replied."
+    },
+    {
+        "q": "Is the meeting still going on, or ___ (it / finish)?",
+        "a": "has it finished?"
+    },
+    {
+        "q": "The ___ (weather / change). It's colder now.",
+        "a": "weather has changed. It's colder now."
+    },
+    {
+        "q": "___ (you / not / sign) the form. Could you sign it now, please?",
+        "a": "You haven't signed the form. Could you sign it now, please?"
+    },
+    {
+        "q": "Are your friends still here, or ___ (they / go) home?",
+        "a": "have they gone home?"
+    },
+    {
+        "q": "Paul doesn't know what he's going to do. ___ (he / not / decide / yet).",
+        "a": "He hasn't decided yet."
+    },
+    {
+        "q": "Do you know where Julia is? Yes, ___ (I / just / see / her).",
+        "a": "I've just seen her."
+    },
+    {
+        "q": "When is David going away? ___ (he / already / go).",
+        "a": "He has already gone."
+    },
+    {
+        "q": "Has ___ (your course / start / yet)?",
+        "a": "your course started yet?"
+    },
+    {
+        "q": "Joe goes out. Five minutes later, the phone rings. (go out)\n I'm afraid Joe ___.",
+        "a": "I'm afraid Joe has just gone out."
+    },
+    {
+        "q": "The waiter starts to take your plate away, but you haven't finished. (not / finish)\n Wait a minute! I ___.",
+        "a": "Wait a minute! I haven't finished yet."
+    },
+    {
+        "q": "Your friend asks, 'Shall I phone to reserve a table?' (already / do it)\n No, I ___.",
+        "a": "No, I've already done it."
+    },
+    {
+        "q": "Lisa is looking for a place to live. Ask her if she found one. (find / yet)\n Have ___?",
+        "a": "Have you found a place to live yet?"
+    },
+    {
+        "q": "A friend asks, 'Where are you going for your holiday?' (not / decide / yet)\n I ___.",
+        "a": "I haven't decided yet."
+    },
+    {
+        "q": "Is Laura still out? No, she ___ (come back / just).",
+        "a": "No, she has just come back."
+    }
+]

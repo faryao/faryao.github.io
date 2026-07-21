@@ -1,0 +1,110 @@
+[
+    {
+        "q": "relative pronoun\n An architect is someone ___ designs buildings.",
+        "a": "An architect is someone who designs buildings."
+    },
+    {
+        "q": "relative pronoun\n A customer is someone ___ buys something from a shop.",
+        "a": "A customer is someone who buys something from a shop."
+    },
+    {
+        "q": "relative pronoun\n A burglar is someone ___ breaks into a house to steal things.",
+        "a": "A burglar is someone who breaks into a house to steal things."
+    },
+    {
+        "q": "relative pronoun\n A shoplifter is someone ___ steals from a shop.",
+        "a": "A shoplifter is someone who steals from a shop."
+    },
+    {
+        "q": "relative pronoun\n A tenant is someone ___ pays rent to live somewhere.",
+        "a": "A tenant is someone who pays rent to live somewhere."
+    },
+    {
+        "q": "relative pronoun\n A liar is someone ___ doesn't tell the truth.",
+        "a": "A liar is someone who doesn't tell the truth."
+    },
+    {
+        "q": "relative pronoun\n A coward is someone ___ is not brave.",
+        "a": "A coward is someone who is not brave."
+    },
+    {
+        "q": "relative pronoun\n A pessimist is someone ___ expects the worst to happen.",
+        "a": "A pessimist is someone who expects the worst to happen."
+    },
+    {
+        "q": "combine sentences with a relative pronoun\n A girl was injured in the accident. She is now in hospital.\n The girl ___ was injured in the accident is now in hospital.",
+        "a": "The girl who was injured in the accident is now in hospital."
+    },
+    {
+        "q": "combine sentences with a relative pronoun\n A waiter served us. He was impolite and impatient.\n The waiter ___ served us was impolite and impatient.",
+        "a": "The waiter who served us was impolite and impatient."
+    },
+    {
+        "q": "combine sentences with a relative pronoun\n A building was destroyed in the fire. It has now been rebuilt.\n The building ___ was destroyed in the fire has now been rebuilt.",
+        "a": "The building which was destroyed in the fire has now been rebuilt."
+    },
+    {
+        "q": "combine sentences with a relative pronoun\n Some people were arrested. They have now been released.\n The people ___ were arrested have now been released.",
+        "a": "The people who were arrested have now been released."
+    },
+    {
+        "q": "combine sentences with a relative pronoun\n A bus goes to the airport. It runs every half hour.\n The bus ___ goes to the airport runs every half hour.",
+        "a": "The bus which goes to the airport runs every half hour."
+    },
+    {
+        "q": "relative pronoun\n Helen works for a company ___ makes furniture.",
+        "a": "Helen works for a company that makes furniture."
+    },
+    {
+        "q": "relative pronoun\n The movie is about a girl ___ runs away from home.",
+        "a": "The movie is about a girl who runs away from home."
+    },
+    {
+        "q": "relative pronoun\n What happened to the pictures ___ were hanging on the wall?",
+        "a": "What happened to the pictures that were hanging on the wall?"
+    },
+    {
+        "q": "relative pronoun\n A mystery is something ___ cannot be explained.",
+        "a": "A mystery is something that cannot be explained."
+    },
+    {
+        "q": "relative pronoun\n I've heard it's a good hotel, but I don't know anyone ___ has stayed there.",
+        "a": "I've heard it's a good hotel, but I don't know anyone who has stayed there."
+    },
+    {
+        "q": "relative pronoun\n History is the study of things ___ happened in the past.",
+        "a": "History is the study of things that happened in the past."
+    },
+    {
+        "q": "relative pronoun\n Albert Einstein was the scientist ___ developed the theory of relativity.",
+        "a": "Albert Einstein was the scientist who developed the theory of relativity."
+    },
+    {
+        "q": "relative pronoun\n It seems that Earth is the only planet ___ can support life.",
+        "a": "It seems that Earth is the only planet that can support life."
+    },
+    {
+        "q": "correct the relative pronoun\n I don't like stories 'who' have unhappy endings.",
+        "a": "I don't like stories that have unhappy endings."
+    },
+    {
+        "q": "correct the relative pronoun\n Where's the nearest shop 'who' sells bread?",
+        "a": "Where's the nearest shop that sells bread?"
+    },
+    {
+        "q": "correct the relative pronoun\n Dan said some things about me 'they' were not true.",
+        "a": "Dan said some things about me that were not true."
+    },
+    {
+        "q": "correct the relative pronoun\n The driver 'which' caused the accident was fined £500.",
+        "a": "The driver who caused the accident was fined £500."
+    },
+    {
+        "q": "correct the relative pronoun\n We live in a world 'what' is changing all the time.",
+        "a": "We live in a world that is changing all the time."
+    },
+    {
+        "q": "correct the relative pronoun\n What was the name of the horse 'what' won the race?",
+        "a": "What was the name of the horse that won the race?"
+    }
+]

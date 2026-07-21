@@ -1,0 +1,106 @@
+[
+    {
+        "q": "Write 'for' or 'since' to complete the sentence.\n It's been raining ___ lunchtime.",
+        "a": "It's been raining since lunchtime."
+    },
+    {
+        "q": "Write 'for' or 'since' to complete the sentence.\n Paul has lived in Brazil ___ ten years.",
+        "a": "Paul has lived in Brazil for ten years."
+    },
+    {
+        "q": "Write 'for' or 'since' to complete the sentence.\n I'm tired of waiting. We've been sitting here ___ an hour.",
+        "a": "We've been sitting here for an hour."
+    },
+    {
+        "q": "Write 'for' or 'since' to complete the sentence.\n Kevin has been looking for a job ___ he left school.",
+        "a": "Kevin has been looking for a job since he left school."
+    },
+    {
+        "q": "Write 'for' or 'since' to complete the sentence.\n I haven't been to a party ___ ages.",
+        "a": "I haven't been to a party for ages."
+    },
+    {
+        "q": "Write 'for' or 'since' to complete the sentence.\n I wonder where Joe is. I haven't seen him ___ last week.",
+        "a": "I haven't seen him since last week."
+    },
+    {
+        "q": "Write 'for' or 'since' to complete the sentence.\n Jane is away on holiday. She's been away ___ Friday.",
+        "a": "She's been away since Friday."
+    },
+    {
+        "q": "Write 'for' or 'since' to complete the sentence.\n The weather is dry. It hasn't rained ___ a few weeks.",
+        "a": "It hasn't rained for a few weeks."
+    },
+    {
+        "q": "Choose the correct question for the answer: 'Ten years ago.'\n A) How long have they been married?\n B) When did they get married?",
+        "a": "When did they get married?"
+    },
+    {
+        "q": "Choose the correct question for the answer: 'About five years.'\n A) How long have you had this car?\n B) When did you buy this car?",
+        "a": "How long have you had this car?"
+    },
+    {
+        "q": "Choose the correct question for the answer: 'Only a few minutes.'\n A) How long have you been waiting?\n B) When did you get here?",
+        "a": "How long have you been waiting?"
+    },
+    {
+        "q": "Choose the correct question for the answer: 'September.'\n A) How long have you been doing your course?\n B) When did your course start?",
+        "a": "When did your course start?"
+    },
+    {
+        "q": "Choose the correct question for the answer: 'Last week.'\n A) How long has Anna been in London?\n B) When did Anna arrive in London?",
+        "a": "When did Anna arrive in London?"
+    },
+    {
+        "q": "Choose the correct question for the answer: 'A long time.'\n A) How long have you known each other?\n B) When did you first meet each other?",
+        "a": "How long have you known each other?"
+    },
+    {
+        "q": "Complete the second sentence so that it means the same as the first, using the present perfect.\n Mark became ill on Sunday. He has ___.",
+        "a": "He has been ill since Sunday."
+    },
+    {
+        "q": "Complete the second sentence so that it means the same as the first, using the simple past.\n Sarah has been married for a year. She got ___.",
+        "a": "She got married a year ago."
+    },
+    {
+        "q": "Complete the second sentence so that it means the same as the first, using the present perfect.\n Your headache started when you woke up. I've ___.",
+        "a": "I've had a headache since I woke up."
+    },
+    {
+        "q": "Complete the second sentence so that it means the same as the first, using the simple past.\n Sue's meeting has been going on since 9 o'clock. The meeting ___.",
+        "a": "The meeting started at 9 o'clock."
+    },
+    {
+        "q": "Complete the second sentence so that it means the same as the first, using the present perfect continuous.\n You started working in a hotel six months ago. I've been ___.",
+        "a": "I've been working in a hotel for six months."
+    },
+    {
+        "q": "Complete the second sentence so that it means the same as the first, using the simple past.\n Kate has been learning Japanese for a long time. Kate started ___.",
+        "a": "Kate started learning Japanese a long time ago."
+    },
+    {
+        "q": "Complete the response with the present perfect and 'for' or 'since'.\n Have you seen Lisa recently? No, I ___ about a month.",
+        "a": "No, I haven't seen her for about a month."
+    },
+    {
+        "q": "Complete the response with the present perfect and 'for' or 'since'.\n Do you still go swimming regularly? No, I ___ a long time.",
+        "a": "No, I haven't been swimming for a long time."
+    },
+    {
+        "q": "Complete the response with the present perfect and 'for' or 'since'.\n Do you still ride a bike these days? No, I ___ ages.",
+        "a": "No, I haven't ridden a bike for ages."
+    },
+    {
+        "q": "Rewrite the sentence using the structure 'It is ... since ...'.\n I haven't seen Lisa for about a month.",
+        "a": "It's about a month since I last saw Lisa."
+    },
+    {
+        "q": "Rewrite the sentence using the structure 'It is ... since ...'.\n I haven't been swimming for a long time.",
+        "a": "It's a long time since I last went swimming."
+    },
+    {
+        "q": "Rewrite the sentence using the structure 'It is ... since ...'.\n I haven't ridden a bike for ages.",
+        "a": "It's ages since I last rode a bike."
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "q": "speak\n Tanya ___ German very well.",
+        "a": "Tanya speaks German very well. "
+    },
+    {
+        "q": "go\n Ben and Jack ___ to the same school.",
+        "a": "Ben and Jack go to the same school. "
+    },
+    {
+        "q": "cause\n Bad driving ___ many accidents.",
+        "a": "Bad driving causes many accidents. "
+    },
+    {
+        "q": "close\n The museum ___ at 4 o'clock on Sundays.",
+        "a": "The museum closes at 4 o'clock on Sundays. "
+    },
+    {
+        "q": "live\n My parents ___ in a very small flat.",
+        "a": "My parents live in a very small flat. "
+    },
+    {
+        "q": "take\n The Olympic Games ___ place every four years.",
+        "a": "The Olympic Games take place every four years. "
+    },
+    {
+        "q": "connect\n The Panama Canal ___ the Atlantic and Pacific oceans.",
+        "a": "The Panama Canal connects the Atlantic and Pacific oceans. "
+    },
+    {
+        "q": "not / drink\n Julia ___ tea very often.",
+        "a": "Julia doesn't drink tea very often. "
+    },
+    {
+        "q": "the banks / close\n What time ___ here?",
+        "a": "What time do the banks close here? "
+    },
+    {
+        "q": "not / use\n I have a car, but I ___ it much.",
+        "a": "I have a car, but I don't use it much. "
+    },
+    {
+        "q": "Maria / come\n Where ___ from? Is she Spanish?",
+        "a": "Where does Maria come from? Is she Spanish? "
+    },
+    {
+        "q": "you / do\n 'What ___?' 'I'm an electrician.'",
+        "a": "'What do you do?' 'I'm an electrician.' "
+    },
+    {
+        "q": "this word / mean\n Look at this sentence. What ___?",
+        "a": "Look at this sentence. What does this word mean? "
+    },
+    {
+        "q": "not / do\n David isn't very fit. He ___ any sport.",
+        "a": "David isn't very fit. He doesn't do any sport. "
+    },
+    {
+        "q": "it / take\n It takes me an hour to get to work in the morning. How long ___ you?",
+        "a": "It takes me an hour to get to work in the morning. How long does it take you? "
+    },
+    {
+        "q": "go\n The earth ___ round the sun.",
+        "a": "The earth goes round the sun. "
+    },
+    {
+        "q": "not / grow\n Rice ___ in cold climates.",
+        "a": "Rice doesn't grow in cold climates. "
+    },
+    {
+        "q": "rise\n The sun ___ in the east.",
+        "a": "The sun rises in the east. "
+    },
+    {
+        "q": "make\n Bees ___ honey.",
+        "a": "Bees make honey. "
+    },
+    {
+        "q": "not / eat\n Vegetarians ___ meat.",
+        "a": "Vegetarians don't eat meat. "
+    },
+    {
+        "q": "not / believe\n An atheist ___ in God.",
+        "a": "An atheist doesn't believe in God. "
+    },
+    {
+        "q": "translate\n An interpreter ___ from one language into another.",
+        "a": "An interpreter translates from one language into another. "
+    },
+    {
+        "q": "not / tell\n Liars are people who ___ the truth.",
+        "a": "Liars are people who don't tell the truth. "
+    },
+    {
+        "q": "flow\n The River Amazon ___ into the Atlantic Ocean.",
+        "a": "The River Amazon flows into the Atlantic Ocean. "
+    },
+    {
+        "q": "you / play / tennis\n How often ___?",
+        "a": "How often do you play tennis? "
+    },
+    {
+        "q": "your sister / play / tennis\n Perhaps Lisa's sister plays tennis too. You want to know. ___?",
+        "a": "Does your sister play tennis? "
+    },
+    {
+        "q": "you / go / to the cinema\n You know that Lisa goes to the cinema a lot. You want to know how often. ___?",
+        "a": "How often do you go to the cinema? "
+    },
+    {
+        "q": "your brother / do\n You know that Lisa's brother works. You want to know what he does. ___?",
+        "a": "What does your brother do? "
+    },
+    {
+        "q": "you / speak / Spanish\n You're not sure whether Lisa speaks Spanish. You want to know. ___?",
+        "a": "Do you speak Spanish? "
+    },
+    {
+        "q": "where / your grandparents / live\n You don't know where Lisa's grandparents live. You want to know. ___?",
+        "a": "Where do your grandparents live? "
+    },
+    {
+        "q": "suggest\n Mr Evans is not in the office today. I ___ you try calling him tomorrow.",
+        "a": "Mr Evans is not in the office today. I suggest you try calling him tomorrow. "
+    },
+    {
+        "q": "promise\n I ___ I won't tell anybody what you said.",
+        "a": "I promise I won't tell anybody what you said. "
+    },
+    {
+        "q": "insist\n (in a restaurant) I ___ you must let me pay for the meal.",
+        "a": "(in a restaurant) I insist you must let me pay for the meal. "
+    },
+    {
+        "q": "apologise\n I ___ for what I said. I shouldn't have said it.",
+        "a": "I apologise for what I said. I shouldn't have said it. "
+    },
+    {
+        "q": "agree\n I ___ with you. I think you're absolutely right.",
+        "a": "I agree with you. I think you're absolutely right. "
+    }
+]

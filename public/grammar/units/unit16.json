@@ -1,0 +1,78 @@
+[
+    {
+        "q": "play / football\n The children came into the house. They had a football and they were both very tired. They ___.",
+        "a": "They had been playing football."
+    },
+    {
+        "q": "look forward to / it\n I was disappointed when I had to cancel my holiday. I ___.",
+        "a": "I had been looking forward to it."
+    },
+    {
+        "q": "have / a bad dream\n Anna woke up in the middle of the night. She was frightened and didn't know where she was. She ___.",
+        "a": "She had been having a bad dream."
+    },
+    {
+        "q": "watch / a film\n When I got home, Mark was sitting in front of the TV. He had just turned it off. He ___.",
+        "a": "He had been watching a film."
+    },
+    {
+        "q": "wait / a long time\n The people waiting at the bus stop were getting impatient. The bus was very late. They ___.",
+        "a": "They had been waiting a long time."
+    },
+    {
+        "q": "wait / be\n I had arranged to meet Tom in a restaurant. I realized that I ___ for 20 minutes when I ___ in the wrong restaurant.",
+        "a": "I realized that I had been waiting for 20 minutes when I was in the wrong restaurant."
+    },
+    {
+        "q": "go / work\n Sarah worked in a company for a long time. At the time the company ___ out of business, Sarah ___ there for twelve years.",
+        "a": "At the time the company went out of business, Sarah had been working there for twelve years."
+    },
+    {
+        "q": "play / start\n The orchestra ___ for about ten minutes when a man in the audience suddenly ___ shouting.",
+        "a": "The orchestra had been playing for about ten minutes when a man in the audience suddenly started shouting."
+    },
+    {
+        "q": "travel\n At the end of our journey we were extremely tired. We ___ for more than 24 hours.",
+        "a": "We had been travelling for more than 24 hours."
+    },
+    {
+        "q": "look\n James was on his hands and knees on the floor. He ___ for his contact lens.",
+        "a": "He was looking for his contact lens."
+    },
+    {
+        "q": "run\n Sue was sitting on the ground. She was out of breath. She ___.",
+        "a": "She had been running."
+    },
+    {
+        "q": "walk\n John and I went for a walk. He ___ very fast and I had difficulty keeping up with him.",
+        "a": "He was walking very fast and I had difficulty keeping up with him."
+    },
+    {
+        "q": "have\n I was sad when I sold my car. I ___ it for a very long time.",
+        "a": "I had had it for a very long time."
+    },
+    {
+        "q": "go\n I was sad when my local cafe closed. I ___ there for many years.",
+        "a": "I had been going there for many years."
+    },
+    {
+        "q": "wait\n I had arranged to meet Kate, but I was late. When I finally arrived, she ___ for me.",
+        "a": "When I finally arrived, she was waiting for me."
+    },
+    {
+        "q": "wait\n Kate was annoyed when I arrived because she ___ such a long time.",
+        "a": "Kate was annoyed when I arrived because she had been waiting such a long time."
+    },
+    {
+        "q": "work\n When I started a few years ago, Joe ___ already ___ there.",
+        "a": "When I started a few years ago, Joe was already working there."
+    },
+    {
+        "q": "work\n At the time I started, Joe had already ___ there for two years.",
+        "a": "At the time I started, Joe had already been working there for two years."
+    },
+    {
+        "q": "work\n Joe still works for the company. He ___ there a long time now.",
+        "a": "He has been working there a long time now."
+    }
+]
