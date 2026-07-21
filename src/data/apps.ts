@@ -21,7 +21,7 @@ export const projectApps: AppLink[] = [
   {
     name: 'Public Wiki',
     description: 'A public, community-editable wiki.',
-    href: 'https://faryao.github.io/public_wiki/',
+    href: 'https://faryao.github.io/public-wiki/',
     icon: 'wiki',
     lang: 'en',
   },
